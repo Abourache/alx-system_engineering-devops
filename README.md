@@ -1,2 +1,2 @@
-# alx-system_engineering-devops
-About Bash projects
+0x00. Shell, basics
+
