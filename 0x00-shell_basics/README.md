@@ -15,3 +15,5 @@ Create a script that creates a directory named my first directory in the /tmp/ d
 Move the file betty from /tmp/ to /tmp/my first directory.
 8.Bye bye Betty
 Delete the file betty.
+9.Bye bye My first directory
+Delete the directory my first directory that is in the /tmp directory.
