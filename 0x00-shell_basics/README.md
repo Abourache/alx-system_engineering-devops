@@ -17,3 +17,5 @@ Move the file betty from /tmp/ to /tmp/my first directory.
 Delete the file betty.
 9.Bye bye My first directory
 Delete the directory my first directory that is in the /tmp directory.
+10.Back to the future
+script that changes the working directory to the previous one.
