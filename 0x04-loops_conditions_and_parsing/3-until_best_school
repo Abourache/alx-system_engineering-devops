@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# use an until loop to print vname 10 times
+vname="best school"
+count=0
+
+until [ "$count" -ge 10 ]; do
+	echo "$vname"
+	count=$((count + 1))
+done
