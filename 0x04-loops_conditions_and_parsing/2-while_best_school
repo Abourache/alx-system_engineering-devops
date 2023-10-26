@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# define a variable and initialize a count variable for vname
+vname="best school"
+count=0
+
+# use a while loop to print the vname 10 times
+while [ "$count" -lt 10 ]; do
+	echo "$vname"
+	count=$((count + 1))
+done
