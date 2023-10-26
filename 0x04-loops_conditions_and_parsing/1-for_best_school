@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#define a variable for the vname
+vname="best school"
+
+#use a for loop to print "best school" 10 times
+for ((v = 1; v <= 10; v++)); do
+	echo "$vname"
+done
